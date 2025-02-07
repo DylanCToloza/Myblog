@@ -5,3 +5,5 @@ Ahora continuaremos con el proceso de aprendizaje.
 El siguiente video es acerca de las ramas.
 
 Ahora continuamos con los siguientes datos.
+
+Aprender git es muy versatil para cualquier proyecto.
