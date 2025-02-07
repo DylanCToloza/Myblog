@@ -1,1 +1,7 @@
 Esta es una practica acerca de git.
+
+Ahora continuaremos con el proceso de aprendizaje.
+
+El siguiente video es acerca de las ramas.
+
+Ahora continuamos con los siguientes datos.
