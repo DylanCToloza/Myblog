@@ -17,6 +17,10 @@ body {
     margin: auto;
 }
 
+#container p{
+    color: aqua;
+}
+
 #container h1{
     font-size: 20px;
 }
